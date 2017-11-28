@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: montserrat;
+    src: url(font/Montserrat-SemiBold.otf);
+}
+
+
+#grafico {
+    
+    
+    
+        margin-top: 40px;
+    
+    
+}
+
+
+
+h3 {
+    
+    font-family: montserrat;
+    
+    color: aliceblue;
+    
+        margin-top: 47px;
+    margin-left: 52px;
+    
+    
+    
+}
+
+
+
+
+.chart {
+      font-family: Arial, sans-serif;
+      font-size: 10px;
+  }
+  .axis path, .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+  }
+  .bar {
+      
+      border-radius: 25px;
+  }
+
+
+text {
+    
+    
+    font-family: montserrat;
+    fill: aliceblue;
+    
+    
+}
+
+
+.axis path, .axis line {
+    fill: none;
+    stroke:#e8ff59;
+    shape-rendering: crispEdges;
+}
+
+
+
+body {
+   background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+    
+}
+
+.label {
+    
+    
+    font-family: montserrat;
+    font-size: 8px;
+    margin-bottom: 3px;
+    
+    
+    
+    
+}
